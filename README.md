@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello
+- 🌱 MSc NLP in training
+- 🔭 Bachelor's Degree in Translation with a Data Science minor
+- 💬 Open for collaborations
 <!--
 **it-is-helga/it-is-helga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
